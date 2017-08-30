@@ -4,6 +4,8 @@
 
 OpenRTE is a little software for explore/edit memory of the Playstation 4.
 
+**Download** pre-compiled version [here](https://github.com/theorywrong/OpenRTE/releases/).
+
 # Executing
 You need [NodeJS](https://nodejs.org/en/)  and [Elf-loader](https://github.com/ps4dev/elf-loader)
 
