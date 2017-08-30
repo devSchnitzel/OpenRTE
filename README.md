@@ -24,12 +24,19 @@ socat udp-recv:15000 stdout
 # Credit
 Thanks to:
 [Dev_ShoOTz](https://realitygaming.fr/members/dev_shootz.412/) for all night of debugging :D
+
 MarentDev for some help and the library for iOS (not here for the moment)
+
 Marbella, MsKx, JimmyModding, AZN for testing
+
 BadChoiceZ for the notify function
+
 psxdev for libdebugnet
+
 Quentin from [PLS Squad](https://discord.gg/5zPDW5) for some help in C/C++ with my crappy code xP
+
 CTurt, Zecoxao, wskeu, wildcard, Z80 and all people contribuing to PS4 Scene
+
 
 ***Note: A release version is also available***
 
