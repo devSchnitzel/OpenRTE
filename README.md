@@ -17,6 +17,11 @@ You need [PS4SDK](https://github.com/ps4dev/ps4sdk) and a magic command
 make
 ```
 
+# Issue
+
+- sched.h missing
+Simply download sched for [here](https://github.com/freebsd/freebsd/blob/master/sys/sys/sched.h) and add this to you're include path.
+
 # Debugging
 OpenRTE use libdebugnet from [ps4link](https://github.com/psxdev/ps4link) by psxdev, the debug port is 15000 (change the ip of your computer on the binary, or in the source)
 ```
