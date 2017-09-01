@@ -19,7 +19,8 @@ make
 
 # Issue
 
-***sched.h missing :*** Simply download sched.h from [here](https://github.com/freebsd/freebsd/blob/master/sys/sys/sched.h) and add this to you're include path.
+***sched.h related error :*** Simply download sched.h from [here](https://ghostbin.com/paste/d78ms
+) and add this to you're include path.
 
 # Debugging
 OpenRTE use libdebugnet from [ps4link](https://github.com/psxdev/ps4link) by psxdev, the debug port is 15000 (change the ip of your computer on the binary, or in the source)
