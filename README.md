@@ -1,4 +1,5 @@
-# OpenRTE - Playstation 4 Memory/Module Manager
+# OpenRTE - Playstation 4 Memory/Module Manager (For 1.76 ONLY)
+# DEPRECATED / 5.05, see the [PS4Debug](https://github.com/xemio/ps4debug/) by xemio
 
 [![N|Solid](http://i.imgur.com/22NR4YM.png)](#)
 
